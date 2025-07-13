@@ -1,27 +1,35 @@
 # 🚀 C++ Learning Journey
 
 Welcome to my personal repository for learning and mastering **C++**.  
-This repo documents my progress as I go from beginner to advanced through practice, notes, and mini-projects.
+This repo documents my progress as I build a strong foundation in the C++ programming language through hands-on coding, notes, and small projects.
 
 ---
 
 ## 📚 What You'll Find Here
 
-- 🔹 **Basics** – syntax, data types, loops, conditionals, functions
-- 🔹 **OOP Concepts** – classes, objects, inheritance, polymorphism
-- 🔹 **STL (Standard Template Library)** – vectors, maps, sets, stacks, queues
-- 🔹 **Data Structures & Algorithms** – arrays, linked lists, trees, graphs, recursion, sorting, searching
-- 🔹 **Competitive Programming Practice** – problems from platforms like LeetCode, Codeforces, etc.
-- 🔹 **Mini Projects** *(coming soon)* – console-based apps to apply concepts
+- 🔹 **Basics** – syntax, variables, data types, conditionals, loops, functions
+- 🔹 **Pointers & References** – memory handling, pointer arithmetic
+- 🔹 **Object-Oriented Programming (OOP)** – classes, objects, inheritance, polymorphism, encapsulation, abstraction
+- 🔹 **File Handling** – reading from and writing to files
+- 🔹 **Standard Template Library (STL)** – vectors, sets, maps, iterators, algorithms
+- 🔹 **Mini Projects** *(coming soon)* – console-based applications to apply what I learn
 
 ---
 
 ## 🛠️ How I'm Learning
 
-- Watching tutorials, reading docs/books
-- Writing code to reinforce concepts
-- Solving daily problems
+- Watching tutorials and reading documentation/books
+- Writing example code and experiments
+- Building small programs to reinforce concepts
 - Committing regularly to track progress
+
+---
+
+## 🗂️ Folder Structure
+<pre>
+cpp-journey/
+├── basics/
+</pre>
 
 ---
 
@@ -35,6 +43,8 @@ Feel free to explore, suggest improvements, or fork it if you're on a similar jo
 ## 📅 Started on
 
 **14th July 2025**
+
+---
 
 ---
 
